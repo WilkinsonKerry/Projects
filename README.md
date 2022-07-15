@@ -1,2 +1,2 @@
-# Repository-1
+# Project
 This is for school work
